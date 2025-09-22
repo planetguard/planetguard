@@ -1,44 +1,50 @@
-PlanetGuard Privacy Policy
-
+🌐 PlanetGuard Privacy Policy
 
 PlanetGuard is committed to protecting your privacy. This policy explains what data we handle and how we ensure your information remains private.
 
-Information We Do Not Collect
+🚫 Information We Do Not Collect
 
-We do not collect, store, or share any personally identifiable information (such as name, email address, or account details).
+We want to be clear about what we never collect, store, or share:
 
-We do not track your browsing history, personal communications, financial data, health information, or authentication information.
+❌ Personally identifiable information (name, email address, account details)
 
-We do not sell, transfer, or use user data for advertising, marketing, or unrelated purposes.
+❌ Browsing history or personal communications
 
-How PlanetGuard Works
+❌ Financial or payment information
 
-All phishing detection and blocking is performed locally within the extension.
+❌ Health information
 
-The extension checks visited URLs against our phishing protection rules.
+❌ Authentication data (passwords, PINs, credentials)
 
-Protection status (Active/Inactive) is managed through the PlanetGuard desktop application.
+❌ User data for advertising, marketing, or unrelated purposes
 
-External Communications
+⚡ How PlanetGuard Works
 
-The extension may make secure API requests to verify if a website is malicious.
+✅ All phishing detection and blocking is performed locally within the extension
 
-These requests are anonymous and do not contain personally identifiable information.
+✅ The extension checks visited URLs against phishing protection rules
 
-No user data is stored on our servers.
+✅ Protection status (Active/Inactive) is managed through the PlanetGuard desktop application
 
-Data Security
+🌍 External Communications
 
-Your data remains private and secure at all times.
+🔒 The extension may make secure API requests to verify if a website is malicious
 
-We follow industry best practices to ensure that no unauthorized access or misuse occurs.
+🛡️ These requests are anonymous and do not include personally identifiable information
 
-Changes to this Policy
+🗂️ No user data is stored on our servers
 
-We may update this Privacy Policy from time to time. Any updates will be reflected on this page with a new “Last updated” date.
+🔐 Data Security
 
-Contact Us
+Your data remains private and secure at all times
 
-If you have any questions about this Privacy Policy or data handling, please contact us at:
-📧 myplanetguard@gmail.com
+We follow industry best practices to prevent unauthorized access or misuse
 
+🔄 Changes to this Policy
+
+We may update this Privacy Policy from time to time. Any updates will be reflected here with a new “Last updated” date.
+
+📩 Contact Us
+
+If you have any questions about this Privacy Policy or data handling, please contact us:
+👉 Email: myplanetguard@gmail.com
